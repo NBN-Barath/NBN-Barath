@@ -13,7 +13,7 @@ I'm a passionate **Java Developer** with expertise in building scalable and effi
 ## 🌐 Projects
 - **[ATM Management System](https://github.com/NBN-Barath/ATM_Java)** - A Java-based banking system that handles transactions efficiently.
 - **[Book My Show (Clone)](https://github.com/NBN-Barath/BookMyShow)** - A movie ticket booking system with an optimized seat booking process.
-- **[Railway Booking System](https://github.com/NBN-Barath/Railway-Booking-System)** - In developement. A ticket reservation system developed purely in Java.
+- **[Railway Booking System](https://github.com/NBN-Barath/Railway-Booking-System)** - In developement. A ticket reservation system is being developed purely in Java.
 
 
 ## 🎨 Socials
